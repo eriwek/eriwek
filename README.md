@@ -1,20 +1,21 @@
+# 🌸 Welcome to my github profile!
+I am a dedicated and experienced AI engineer, committed to delivering innovative solutions that align with the unique needs of my clients. I stay attuned to the latest advancements in artificial intelligence and take pride in my contributions to various open-source projects, drawing from my extensive knowledge and skills. While much of my work may not be publicly sourced, I invite you to explore my public repository for insights into my projects and expertise.
+
+# Favourite Saying
+
+```
 # MLminer's motto
+class ElonMusk:
+    def said(self):
+        """Return Elon Musk quote"""
+        return "Some people don't like change, but you need to embrace change if the alternative is disaster."
 
-```rust
-struct ElonMusk;
+def main():
+    elon_musk = ElonMusk()
+    print(f"Elon Musk - {elon_musk.said()}")
 
-impl ElonMusk {
-  /// Return Elon Musk quote
-  fn said(&self) -> &str {
-    "Some people don't like change, but you need to embrace change if the alternative is disaster."
-  }
-}
-
-fn main() {
-  let elon_musk = ElonMusk;
-
-  println!("Elon Musk - {}", elon_musk.said());
-}
+if __name__ == "__main__":
+    main()
 ```
 
 # GitHub Status ![](https://komarev.com/ghpvc/?username=MLminer&color=blueviolet)
