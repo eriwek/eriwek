@@ -1,4 +1,5 @@
-# 🌸 Welcome to my github profile!
+
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=🌸+Welcome+to+my+github+page!)](https://git.io/typing-svg)
 I am a dedicated and experienced AI engineer, committed to delivering innovative solutions that align with the unique needs of my clients. I stay attuned to the latest advancements in artificial intelligence and take pride in my contributions to various open-source projects, drawing from my extensive knowledge and skills. While much of my work may not be publicly sourced, I invite you to explore my public repository for insights into my projects and expertise.
 
 # Favourite Saying
